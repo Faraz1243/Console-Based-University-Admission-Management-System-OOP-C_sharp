@@ -1,0 +1,16 @@
+C:\Users\faraz\source\repos\UAMS\UAMS\bin\Debug\UAMS.exe.config
+C:\Users\faraz\source\repos\UAMS\UAMS\bin\Debug\UAMS.exe
+C:\Users\faraz\source\repos\UAMS\UAMS\bin\Debug\UAMS.pdb
+C:\Users\faraz\source\repos\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\faraz\source\repos\UAMS\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\faraz\source\repos\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\faraz\source\repos\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Users\faraz\source\repos\UAMS\UAMS\obj\Debug\UAMS.pdb
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\bin\Debug\UAMS.exe.config
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\bin\Debug\UAMS.exe
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\bin\Debug\UAMS.pdb
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\obj\Debug\UAMS.exe
+C:\Users\faraz\Desktop\Assignment\UAMS\Full Code\UAMS\obj\Debug\UAMS.pdb
